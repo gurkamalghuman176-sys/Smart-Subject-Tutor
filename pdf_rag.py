@@ -202,4 +202,3 @@ STUDENT QUESTION:
 """
 response = self._call_model(provider, model, prompt)
 return response, retrieved
-    
